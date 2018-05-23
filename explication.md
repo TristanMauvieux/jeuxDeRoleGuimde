@@ -70,6 +70,23 @@ Il est aussi important de remarqué que même si au depart vous ne pouvez pas re
 
 Tous le fonctionnement interne de la guilde en role play est géré part les joueurs et le chef de la guilde.
 
+###La masterisation
+
+C'est vrai que le systeme à l'air assez compliqué, et qui va pouvoir le géré ?
+Et bien ce sont LES MJ, et je dis bien LES. En effet pour plus de facilité il vaut mieux qu'il y est plusieur MJ, 3 ou 5 voir plus en fonction du succes.
+
+Les MJ on comme role de géré un peu le fonctionnement du systeme de pouvoir et de proposer partie et scénario pour jouer et s'amusé.
+A savoir que chaque MJ lors de ses scénarios à le pouvoir de le modifier et de faire un peu ce qu'il veux ( dans la limite des règle disponnible)
+
+Il peut aussi valider une fiche de personnage histoire que ce sois rapide ^^
+
+Si vous pensez que vous pouvez pas être MJ parce que vous este débutant eh bien... non, être debutant ne signifie pas que vous serez mauvais, si vous este motivé pour géré une session et faire vivre une aventure a des joueurs, tenter et vous apprendrez sur le tas, et en cas de besoin, je suis sur que si qui on plus d'expérience pourrons vous aidez.
+
+##Les joueurs ( race fourbe)
+Les joueurs c'est à dire vous la commu
+##
+
+
 **Principe et organisation pour jouer**
 
 Le principe de ce role play repose sur la coopération des joueurs, et l'importance de la cohérance qu'il donne à l'univers.
