@@ -83,7 +83,7 @@ Il peut aussi valider une fiche de personnage histoire que ce sois rapide ^^
 Si vous pensez que vous pouvez pas être MJ parce que vous este débutant eh bien... non, être debutant ne signifie pas que vous serez mauvais, si vous este motivé pour géré une session et faire vivre une aventure a des joueurs, tenter et vous apprendrez sur le tas, et en cas de besoin, je suis sur que si qui on plus d'expérience pourrons vous aidez.
 
 ##Les joueurs ( race fourbe)
-Les joueurs c'est à dire vous la commu
+Les joueurs c'est à dire vous la communauté. Votre créativité vas être mis à l'épreuve.
 ##
 
 
