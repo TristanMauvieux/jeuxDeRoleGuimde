@@ -70,7 +70,7 @@ Il est aussi important de remarqué que même si au depart vous ne pouvez pas re
 
 Tous le fonctionnement interne de la guilde en role play est géré part les joueurs et le chef de la guilde.
 
-###La masterisation
+*La masterisation*
 
 C'est vrai que le systeme à l'air assez compliqué, et qui va pouvoir le géré ?
 Et bien ce sont LES MJ, et je dis bien LES. En effet pour plus de facilité il vaut mieux qu'il y est plusieur MJ, 3 ou 5 voir plus en fonction du succes.
@@ -82,9 +82,13 @@ Il peut aussi valider une fiche de personnage histoire que ce sois rapide ^^
 
 Si vous pensez que vous pouvez pas être MJ parce que vous este débutant eh bien... non, être debutant ne signifie pas que vous serez mauvais, si vous este motivé pour géré une session et faire vivre une aventure a des joueurs, tenter et vous apprendrez sur le tas, et en cas de besoin, je suis sur que si qui on plus d'expérience pourrons vous aidez.
 
-##Les joueurs ( race fourbe)
+*Les joueurs ( race fourbe)*
 Les joueurs c'est à dire vous la communauté. Votre créativité vas être mis à l'épreuve.
-##
+C'est vous qui allez crée ou rejoindre une guilde et crée les PNJ/PJ qui la constituront.
+Un joueur est là pour s'amuser, il peux crée plusieur personnage et les intégré à une guilde sous validation du MJ, et prendre le controle d'un personnage lors d'un scénario.
+
+Si un joueurs s'attache à personnage, il peux le reservé, avec autorisation de son créateur.
+Quand un personnage est réservé, le joueur en deviens propriétaire et son évolution est géré part lui seul.
 
 
 **Principe et organisation pour jouer**
