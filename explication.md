@@ -76,3 +76,6 @@ Le principe de ce role play repose sur la coopération des joueurs, et l'importa
 C'est à la communauté de participé, c'est à elle de proposer des personnages, des contextes, des scénarios et des guildes.
 Pour que le projet sois un succes, il faudra forcement des joueurs ( mais pour ça je suis pas trop inquiet), mais surtout plusieur MJ pour pouvoir géré les scénarios.
 
+Quand un personnage est valider, il deviens jouable. Et evolura au fils des scénarios auquel il participe.
+
+
