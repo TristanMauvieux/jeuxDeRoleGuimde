@@ -1,5 +1,5 @@
-##Proposition
-#mise en oeuvre.
+##Proposition##
+#mise en oeuvre.#
 
 Pour le jeu de role je propose d'utilisé les fiches aventures à jour. c'est à à dire celle-ci :
 http://img11.hostingpics.net/pics/971633AventuresFichevierge2.jpg
